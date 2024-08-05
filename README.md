@@ -1,7 +1,9 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm ASJAD JOHAR DAWRE</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img align="right" width="400" alt="animatedGif" src="https://media.licdn.com/dms/image/D4D12AQEwYz74Mf7XKA/article-cover_image-shrink_600_2000/0/1677431973169?e=2147483647&v=beta&t=XAXpJxyem6V0COVr2qwSxPLctoigzjSXhAa4PSHczMI">
+<div style="display: flex; justify-content: flex-end; align-items: center; height: 500px;">
+  <img align="right" width="400" alt="animatedGif" src="https://media.licdn.com/dms/image/D4D12AQEwYz74Mf7XKA/article-cover_image-shrink_600_2000/0/1677431973169?e=2147483647&v=beta&t=XAXpJxyem6V0COVr2qwSxPLctoigzjSXhAa4PSHczMI">
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asjadjdawre&label=Profile%20views&color=0e75b6&style=flat" alt="asjadjdawre" /> </p>
 
