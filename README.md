@@ -5,7 +5,7 @@
   <h3 align="center">🚀 Full Stack Developer | PERN Stack Specialist | Problem Solver</h3>
 </div>
 
-<div style="display: flex; justify-content: flex-end; margin: 20px 0;">
+<div style="display: flex; justify-content: center; margin: 20px 0;">
   <img width="400" alt="animatedGif" src="https://media.licdn.com/dms/image/D4D12AQEwYz74Mf7XKA/article-cover_image-shrink_600_2000/0/1677431973169?e=2147483647&v=beta&t=XAXpJxyem6V0COVr2qwSxPLctoigzjSXhAa4PSHczMI" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
 </div>
 
