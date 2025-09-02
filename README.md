@@ -17,10 +17,11 @@
 </div>
 
 ---
+ <!--
 <div style="display: flex; justify-content: center;  align-items: center; margin: 20px 0;">
   <img width="400" alt="animatedGif" src="https://media.licdn.com/dms/image/D4D12AQEwYz74Mf7XKA/article-cover_image-shrink_600_2000/0/1677431973169?e=2147483647&v=beta&t=XAXpJxyem6V0COVr2qwSxPLctoigzjSXhAa4PSHczMI" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
 </div>
-
+-->
 ## ⚡ About Me
 - Backend-leaning full stack developer building production-grade APIs and multi-tenant systems
 - Delivered 57% latency reduction across MERN/PERN apps using indexing, caching (Redis), and API tuning
