@@ -5,9 +5,7 @@
   <h1>👋 Hi, I'm <b>ASJAD JOHAR DAWRE</b></h1>
   <h3>🚀 Full Stack Engineer (MERN / PERN) • Backend-Focused • System Design Enthusiast</h3>
 
-  <a href="mailto:dawreasjad72@gmail.com">
-    <img src="https://img.shields.io/badge/Email-dawreasjad72%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+ 
   <a href="https://linkedin.com/in/asjad-johar/">
     <img src="https://img.shields.io/badge/LinkedIn-asjad--johar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
